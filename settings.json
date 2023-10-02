@@ -1,0 +1,20 @@
+{
+    "workbench.sideBar.location": "right",
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 17,
+    "boot-java.rewrite.reconcile": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "workbench.editor.titleScrollbarSizing": "large",
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "workbench.colorCustomizations": {
+        "editor.background": "#000E22", //
+        "editor.selectionBackground": "#02428b",
+        "statusBar.background": "#0062A4",
+        "statusBar.debuggingBackground": "#D97200",
+        "sideBar.background": "#001533",
+        "editor.lineHighlightBackground": "#001C46",
+        "tab.activeBorderTop": "#D97200",
+        "tab.activeBorder": "#D97200"
+    }
+}

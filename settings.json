@@ -8,11 +8,12 @@
     "workbench.editor.titleScrollbarSizing": "large",
     "workbench.colorTheme": "Tomorrow Night Blue",
     "workbench.colorCustomizations": {
-        "editor.background": "#000E22", //
+        "editor.background": "#000C1A",
         "editor.selectionBackground": "#02428b",
-        "statusBar.background": "#0062A4",
+        "statusBar.background": "#015892",
         "statusBar.debuggingBackground": "#D97200",
-        "sideBar.background": "#001533",
+        "statusBar.foreground": "#fff",
+        "sideBar.background": "#001D40",
         "editor.lineHighlightBackground": "#001C46",
         "tab.activeBorderTop": "#D97200",
         "tab.activeBorder": "#D97200"

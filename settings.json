@@ -1,10 +1,15 @@
+// required JetBrains Mono Font to be installed
+// required language support plugin by redhat
 {
     "workbench.sideBar.location": "right",
+    "editor.stickyScroll.enabled": false,
     "editor.minimap.enabled": false,
-    "editor.fontSize": 17,
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Jetbrains Mono",
     "boot-java.rewrite.reconcile": true,
     "git.confirmSync": false,
     "git.autofetch": true,
+    "redhat.telemetry.enabled": true,
     "workbench.editor.titleScrollbarSizing": "large",
     "workbench.colorTheme": "Tomorrow Night Blue",
     "workbench.colorCustomizations": {
